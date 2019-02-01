@@ -1,0 +1,4 @@
+#Fri Feb 01 21:54:49 IST 2019
+base.0=C\:\\Users\\Smashable\\Documents\\MyCode\\VS Code\\flutter-minimalloginUI\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
